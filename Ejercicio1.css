@@ -1,0 +1,31 @@
+/* 73-Asignatura.css */
+/* Version 1.0. 04/11/2017. Juan Manuel Cueva Lovelle. Universidad de Oviedo */
+
+/*especificidad -> 1*/
+body{
+    color:black;
+}
+/*especificidad -> 1*/
+h1{
+    text-align:center;
+    color:black;
+}
+/*especificidad -> 1*/
+h2{
+    text-align:center;
+    color:black;
+}
+/*especificidad -> 1*/
+h3{
+    text-align:center;
+    color:black;
+}
+/*especificidad -> 1*/
+h4{
+    text-align:center;
+    color:black;
+}
+/*especificidad -> 1*/
+p{
+    color:black;
+}
